@@ -9,16 +9,15 @@ El sistema Operativo en el que se desarrollo este proyecto es el base Linux/Ubun
 
 # Descripcion del Contenido
 En este repositorio de desarrollará mas de 30 codigos en lenguaje C, que nos sirven para practicar y desarrollar nuevas habilidades en programación, algunos de los temas que se van a tratar son:
-* Simple C Questions
+* Simple C 
 * If/Else Statement
 * Loops
 * Switch Case
-* Array Questions
-* Matrix Questions
-* String Questions List
-* String Questions: Level Up
-* Function Questions
-* Pointer Questions
+* Array 
+* Matrix 
+* String 
+* Function 
+* Pointer 
 * File Handling
 * Sorting
 * Searching
